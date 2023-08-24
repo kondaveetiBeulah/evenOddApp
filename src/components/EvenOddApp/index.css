@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.evenoddApp-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.button {
+  height: 50px;
+  width: 100px;
+  font-family: 'Roboto';
+}
